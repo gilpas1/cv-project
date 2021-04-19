@@ -1,0 +1,14 @@
+#build {
+    min-height: 100vh;
+    width: calc(100vw - 420px);
+    padding: 30px;
+    font-size: 2rem;
+}
+input {
+    font-size: 1.8rem;
+    margin-left: 10px;
+}
+#buildForm{
+    display: flex;
+    flex-direction: column;    
+}
